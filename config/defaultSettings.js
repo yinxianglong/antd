@@ -9,9 +9,9 @@ export default {
   fixSiderbar: false,
   colorWeak: false,
   menu: {
-    locale: false,
+    locale: false, // 关闭国际化
   },
-  title: '工具平台',
+  title: '工具平台', // 左侧标题
   pwa: false,
   iconfontUrl: '',
 };
